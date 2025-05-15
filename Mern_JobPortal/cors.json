@@ -1,0 +1,7 @@
+[
+    {
+      "origin": ["http://localhost:5173", "https://mern-job-portal-ddba8.web.app"],
+      "method": ["GET", "PUT", "POST", "DELETE", "HEAD"],
+      "maxAgeSeconds": 3600
+    }
+  ]
