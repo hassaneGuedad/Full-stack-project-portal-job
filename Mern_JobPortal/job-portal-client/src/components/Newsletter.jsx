@@ -7,7 +7,7 @@ const Newsletter = () => {
       <div>
         <h3 className="text-lg font-bold mb-2 flex items-center gap-2">
           {" "}
-          <FaEnvelopeOpenText /> Email me for jobs
+          <FaEnvelopeOpenText /> Email me for jobs .
         </h3>
         <p className="text-primary/75 text-base mb-4">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea vitae
