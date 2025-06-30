@@ -1,7 +1,7 @@
-## Structure du Projet
+## Structure du Projet :  
 Le projet est divisé en deux parties principales :
 
-### Frontend (job-portal-client)
+### Frontend (job-portal-client) :
 - Développé avec React.js et Tailwind CSS
 - Utilise Firebase pour l'authentification
 - Port de développement : 5173
